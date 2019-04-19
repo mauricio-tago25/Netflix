@@ -1,12 +1,8 @@
 <template>
-  <div class="gui-card" :style="efeito" v-on:click="clickEfeito" v-on:mouseout="removeClickEfeito">
+  <div class="gui-card">
     <div class="gui-card__media">
-      <img class="gui-card__img" v-bind:src="imagem" alt=""/>
-    </div>
-    <div class="gui-card__details">
-      <div class="gui-card__title">
-        {{nomeFilme}}
-      </div>
+      <!--<img class="gui-card__img" v-bind:src="imagem" alt=""/>-->
+      <iframe class="gui-card__img" v-bind:src="url" allowfullscreen></iframe>
     </div>
   </div>
 </template>
@@ -14,7 +10,7 @@
 <script>
   export default {
     name: "Filme",
-    props: ['nomeFilme', 'imagem'],
+    props: ['nomeFilme', 'url'],
     data() {
       return {
         efeito: null
