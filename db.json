@@ -13,6 +13,21 @@
           "id": 2,
           "nome": "Vingadores: Guerra Infinita",
           "url": "https://www.youtube.com/embed/t_ULBP6V9bg"
+        },
+        {
+          "id": 3,
+          "nome": "Os Mercenários 3",
+          "url": "https://www.youtube.com/embed/W8EullqIOQc"
+        },
+        {
+          "id": 4,
+          "nome": "Missão Impossível: Efeito Fallout",
+          "url": "https://www.youtube.com/embed/xQ_FCJhMa2Y"
+        },
+        {
+          "id": 5,
+          "nome": "Pantera Negra",
+          "url": "https://www.youtube.com/embed/KszSDnO3GGk"
         }
       ]
     },
@@ -21,14 +36,29 @@
       "nome": "Comédia",
       "filmes": [
         {
-          "id": 3,
+          "id": 6,
           "nome": "Johnny English 3",
           "url": "https://www.youtube.com/embed/QUj30-SjyIk"
         },
         {
-          "id": 4,
+          "id": 7,
           "nome": "Deadpool 2",
           "url": "https://www.youtube.com/embed/1P9OzWX6nzE"
+        },
+        {
+          "id": 8,
+          "nome": "As Branquelas",
+          "url": "https://www.youtube.com/embed/y5nr345eBQ0"
+        },
+        {
+          "id": 9,
+          "nome": "As Férias de Mr. Bean",
+          "url": "https://www.youtube.com/embed/Fp9qQlhgre8"
+        },
+        {
+          "id": 10,
+          "nome": "A Volta do Todo Poderoso",
+          "url": "https://www.youtube.com/embed/bRJi7oY_-rU"
         }
       ]
     },
@@ -37,12 +67,27 @@
       "nome": "Animação",
       "filmes": [
         {
-          "id": 5,
-          "nome": "Dragon Ball Super Broly",
-          "url": "https://www.youtube.com/embed/P28nIuJOPoc"
+          "id": 11,
+          "nome": "The Last - Naruto The Movie",
+          "url": "https://www.youtube.com/embed/zRswGCxd94M"
         },
         {
-          "id": 6,
+          "id": 12,
+          "nome": "Silence Voice",
+          "url": "https://www.youtube.com/embed/e7bzyQ1pjZU"
+        },
+        {
+          "id": 13,
+          "nome": "Boruto: Naruto The Movie",
+          "url": "https://www.youtube.com/embed/lQd_iZOj8aI"
+        },
+        {
+          "id": 14,
+          "nome": "Your Name",
+          "url": "https://www.youtube.com/embed/nLhKXh6sJtk"
+        },
+        {
+          "id": 15,
           "nome": "Homem-Aranha: No Aranhaverso",
           "url": "https://www.youtube.com/embed/IrQ3iLUKr0I"
         }
@@ -53,14 +98,29 @@
       "nome": "Guerra",
       "filmes": [
         {
-          "id": 7,
+          "id": 16,
           "nome": "Sniper Americano",
           "url": "https://www.youtube.com/embed/ztUAnmhwCWU"
         },
         {
-          "id": 8,
+          "id": 17,
           "nome": "300",
           "url": "https://www.youtube.com/embed/X6qQbPtM-iE"
+        },
+        {
+          "id": 18,
+          "nome": "Cavalo de Guerra",
+          "url": "https://www.youtube.com/embed/dv4_WjdU5rE"
+        },
+        {
+          "id": 19,
+          "nome": "Corações de Ferro",
+          "url": "https://www.youtube.com/embed/OoKSKzqpPy4"
+        },
+        {
+          "id": 20,
+          "nome": "Até o Último Homem",
+          "url": "https://www.youtube.com/embed/zCzcZD65neE"
         }
       ]
     },
@@ -69,16 +129,32 @@
       "nome": "Drama",
       "filmes": [
         {
-          "id": 9,
+          "id": 21,
           "nome": "Sempre ao Seu Lado",
           "url": "https://www.youtube.com/embed/UFY8vW5IedY"
         },
         {
-          "id": 10,
+          "id": 22,
           "nome": "Intocáveis",
           "url": "https://www.youtube.com/embed/-Fb8h4gChlU"
+        },
+        {
+          "id": 23,
+          "nome": "A Culpa é das Estrelas",
+          "url": "https://www.youtube.com/embed/lFOOZJ1UChg"
+        },
+        {
+          "id": 24,
+          "nome": "Se Eu Ficar",
+          "url": "https://www.youtube.com/embed/D5keBYwpI10"
+        },
+        {
+          "id": 25,
+          "nome": "Um Amor Para Recordar",
+          "url": "https://www.youtube.com/embed/hRwqzUAlJVA"
         }
       ]
     }
-  ]
+  ],
+  "clientes": []
 }

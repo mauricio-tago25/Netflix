@@ -1,9 +1,18 @@
 <template>
-  <div class="contain">
-    <Categoria :key="categoria.id" v-for="categoria in categorias"
-               v-bind:titulo="categoria.nome"
-               v-bind:filmes="categoria.filmes">
-    </Categoria>
+
+  <div>
+    <div id="sair">
+      <a href="/">
+        <b-button variant="info">sair</b-button>
+      </a>
+    </div>
+
+    <div class="contain">
+      <Categoria :key="categoria.id" v-for="categoria in categorias"
+                 v-bind:titulo="categoria.nome"
+                 v-bind:filmes="categoria.filmes">
+      </Categoria>
+    </div>
   </div>
 </template>
 

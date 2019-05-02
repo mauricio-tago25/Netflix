@@ -1,4 +1,5 @@
 <template>
+
   <div class="slider">
     <h3>{{titulo}}</h3>
     <span v-on:mouseover="scrollEsquerda()" v-on:mouseout="clearScroll()" class="handle handlePrev active">
